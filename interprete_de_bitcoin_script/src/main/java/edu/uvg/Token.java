@@ -27,6 +27,10 @@ public class Token {
         return data;
     }
 
+    OpCode getOpcode() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
     
 
 }
