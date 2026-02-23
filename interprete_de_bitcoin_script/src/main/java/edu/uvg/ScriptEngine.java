@@ -7,6 +7,11 @@ public class ScriptEngine {
     private Stack<StackItem> stack;
     private ScriptTokenizer scriptTokenizer;
 
+    public ScriptEngine() {
+    this.stack = new Stack<>();
+    this.scriptTokenizer = new ScriptTokenizer();
+}
+
     public boolean evaluate(List<Token> tokens) {
         Stack<byte[]> stack = new Stack<>();
 
