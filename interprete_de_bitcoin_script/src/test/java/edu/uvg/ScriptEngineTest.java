@@ -97,11 +97,11 @@ public class ScriptEngineTest {
         tokens.add(new Token(TokenType.DATA, null, new byte[]{10})); // signature
         tokens.add(new Token(TokenType.DATA, null, new byte[]{20})); // pubKey
 
-        // scriptPubKey típico
+        // scriptPubKey
         tokens.add(new Token(TokenType.OPCODE, OpCode.OP_DUP, null));
         tokens.add(new Token(TokenType.OPCODE, OpCode.OP_HASH160, null));
 
-        // hash esperado (simulado — debe coincidir con tu hash)
+        // hash esperado
         tokens.add(new Token(TokenType.DATA, null,
                 sha256(new byte[]{20})
         ));
