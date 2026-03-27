@@ -1,4 +1,4 @@
-package edu.uvg;
+package edu.uvg.opcode;
 
 public enum OpCode {
     OP_0,
@@ -24,5 +24,11 @@ public enum OpCode {
     OP_HASH160,
     OP_EQUAL,
     OP_EQUALVERIFY,
-    OP_CHECKSIG
+    OP_CHECKSIG,
+    OP_IF,
+    OP_ELSE,
+    OP_ENDIF,
+    OP_VERIFY,
+    OP_RETURN,
+    OP_CHECKMULTISIG
 }

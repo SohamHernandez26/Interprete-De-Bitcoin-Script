@@ -1,4 +1,4 @@
-package edu.uvg;
+package edu.uvg.tokenizer;
 
 public enum TokenType {
     OPCODE,

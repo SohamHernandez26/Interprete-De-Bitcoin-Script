@@ -1,5 +1,5 @@
-package edu.uvg;
-
+package edu.uvg.tokenizer;
+import edu.uvg.opcode.OpCode;
 public class Token {
     private final TokenType type;
     private final OpCode opCode;
@@ -19,18 +19,19 @@ public class Token {
         return type == TokenType.DATA;
     }
 
+    public TokenType getType() {
+        return type;
+    }
+
     public OpCode getOpCode() {
+        return opCode;
+    }
+
+    public OpCode getOpcode() {
         return opCode;
     }
 
     public byte[] getData() {
         return data;
     }
-
-    OpCode getOpcode() {
-        throw new UnsupportedOperationException("Not supported yet.");
-    }
-
-    
-
 }

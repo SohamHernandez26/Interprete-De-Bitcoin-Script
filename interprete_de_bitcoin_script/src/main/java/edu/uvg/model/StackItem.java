@@ -1,4 +1,4 @@
-package edu.uvg;
+package edu.uvg.model;
 
 public class StackItem {
 
@@ -8,7 +8,14 @@ public class StackItem {
         this.data = data;
     }
 
+    public byte[] getData() {
+        return data;
+    }
+
     public boolean asBoolean() {
+        if (data == null || data.length == 0) {
+            return false;
+        }
         for (byte b : data) {
             if (b != 0) {
                 return true;
@@ -18,6 +25,9 @@ public class StackItem {
     }
 
     public boolean equals(StackItem otherItem) {
+        if (otherItem == null) {
+            return false;
+        }
         if (this.data.length != otherItem.data.length) {
             return false;
         }
@@ -28,5 +38,4 @@ public class StackItem {
         }
         return true;
     }
-    
 }

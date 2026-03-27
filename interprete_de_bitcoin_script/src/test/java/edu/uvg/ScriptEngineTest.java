@@ -1,5 +1,7 @@
 package edu.uvg;
 
+import edu.uvg.tokenizer.Token;
+import edu.uvg.opcode.OpCode;
 import java.util.ArrayList;
 import java.util.List;
 
