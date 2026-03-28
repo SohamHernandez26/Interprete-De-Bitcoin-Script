@@ -1,0 +1,16 @@
+edu\uvg\opcode\OpCode.class
+edu\uvg\service\MockSignatureChecker.class
+edu\uvg\interpreter\ScriptEngine.class
+edu\uvg\tokenizer\ScriptTokenizer.class
+edu\uvg\interpreter\ScriptEngine$1.class
+edu\uvg\service\SimpleHashService.class
+edu\uvg\interpreter\ScriptInterpreter.class
+edu\uvg\tokenizer\TokenType.class
+edu\uvg\model\StackItem.class
+edu\uvg\opcode\OpcodeFactory.class
+edu\uvg\app\Main.class
+edu\uvg\service\SignatureChecker.class
+edu\uvg\tokenizer\Token.class
+edu\uvg\interpreter\ExecutionResult.class
+edu\uvg\service\HashService.class
+edu\uvg\interpreter\ExecutionContext.class

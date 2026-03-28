@@ -1,7 +1,5 @@
 package edu.uvg;
 
-import edu.uvg.tokenizer.Token;
-import edu.uvg.opcode.OpCode;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,6 +7,11 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 import org.junit.Before;
 import org.junit.Test;
+
+import edu.uvg.interpreter.ScriptEngine;
+import edu.uvg.opcode.OpCode;
+import edu.uvg.tokenizer.Token;
+import edu.uvg.tokenizer.TokenType;
 
 public class ScriptEngineTest {
 

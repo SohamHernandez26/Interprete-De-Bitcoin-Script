@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\app\Main.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\interpreter\ExecutionContext.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\interpreter\ExecutionResult.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\interpreter\ScriptEngine.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\interpreter\ScriptInterpreter.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\model\StackItem.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\opcode\OpCode.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\opcode\OpcodeFactory.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\service\HashService.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\service\MockSignatureChecker.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\service\SignatureChecker.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\service\SimpleHashService.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\tokenizer\ScriptTokenizer.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\tokenizer\Token.java
+C:\Users\HP\Desktop\ZABDI\UVG\Estructuras de datos\Interprete-De-Bitcoin-Script\interprete_de_bitcoin_script\src\main\java\edu\uvg\tokenizer\TokenType.java

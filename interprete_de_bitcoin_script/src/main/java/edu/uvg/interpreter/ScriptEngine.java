@@ -2,8 +2,11 @@ package edu.uvg.interpreter;
 
 import edu.uvg.model.StackItem;
 import edu.uvg.opcode.OpCode;
+import edu.uvg.opcode.OpcodeFactory;
 import edu.uvg.service.HashService;
 import edu.uvg.service.MockSignatureChecker;
+import edu.uvg.service.SignatureChecker;
+import edu.uvg.service.SimpleHashService;
 import edu.uvg.tokenizer.ScriptTokenizer;
 import edu.uvg.tokenizer.Token;
 import java.util.ArrayList;
