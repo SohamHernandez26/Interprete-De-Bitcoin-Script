@@ -1,0 +1,9 @@
+edu\uvg\OpCode.class
+edu\uvg\ScriptEngine$1.class
+edu\uvg\StackItem.class
+edu\uvg\Main.class
+edu\uvg\TokenType.class
+edu\uvg\ScriptEngine.class
+edu\uvg\ScriptTokenizer.class
+edu\uvg\Token.class
+edu\uvg\ScriptInterpreter.class
