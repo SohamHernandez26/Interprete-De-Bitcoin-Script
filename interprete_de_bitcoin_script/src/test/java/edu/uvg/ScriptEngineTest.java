@@ -117,8 +117,7 @@ public class ScriptEngineTest {
         boolean result = engine.evaluate(tokens);
 
         assertTrue(result);
-    }
-x   
+    }   
     
     private byte[] sha256(byte[] input) {
         try {
